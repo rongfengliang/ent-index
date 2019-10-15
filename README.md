@@ -14,3 +14,9 @@ docker-compose up -d
 ```code
 go run main.go
 ```
+
+## code generate
+
+```code
+go generate ./ent
+```
